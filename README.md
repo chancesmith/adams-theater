@@ -1,3 +1,1 @@
 # adams theater
-
-# adams-theater
